@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hyjing/Code/DeepLearningSystem/HW3
+CMAKE_SOURCE_DIR = /home/hyjing/Code/DeepLearningSystem/HW4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hyjing/Code/DeepLearningSystem/HW3/build
+CMAKE_BINARY_DIR = /home/hyjing/Code/DeepLearningSystem/HW4/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -83,14 +83,14 @@ clean: CMakeFiles/ndarray_backend_cuda.dir/clean
 CMakeFiles/ndarray_backend_cpu.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ndarray_backend_cpu.dir/build.make CMakeFiles/ndarray_backend_cpu.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ndarray_backend_cpu.dir/build.make CMakeFiles/ndarray_backend_cpu.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles --progress-num=1,2 "Built target ndarray_backend_cpu"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles --progress-num=1,2 "Built target ndarray_backend_cpu"
 .PHONY : CMakeFiles/ndarray_backend_cpu.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ndarray_backend_cpu.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ndarray_backend_cpu.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles 0
 .PHONY : CMakeFiles/ndarray_backend_cpu.dir/rule
 
 # Convenience name for target.
@@ -109,14 +109,14 @@ CMakeFiles/ndarray_backend_cpu.dir/clean:
 CMakeFiles/ndarray_backend_cuda.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ndarray_backend_cuda.dir/build.make CMakeFiles/ndarray_backend_cuda.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ndarray_backend_cuda.dir/build.make CMakeFiles/ndarray_backend_cuda.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles --progress-num=3,4 "Built target ndarray_backend_cuda"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles --progress-num=3,4 "Built target ndarray_backend_cuda"
 .PHONY : CMakeFiles/ndarray_backend_cuda.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ndarray_backend_cuda.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ndarray_backend_cuda.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles 0
 .PHONY : CMakeFiles/ndarray_backend_cuda.dir/rule
 
 # Convenience name for target.

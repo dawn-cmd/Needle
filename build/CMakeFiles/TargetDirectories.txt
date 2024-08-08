@@ -1,4 +1,4 @@
-/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles/ndarray_backend_cpu.dir
-/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles/ndarray_backend_cuda.dir
-/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles/edit_cache.dir
-/home/hyjing/Code/DeepLearningSystem/HW3/build/CMakeFiles/rebuild_cache.dir
+/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles/ndarray_backend_cpu.dir
+/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles/ndarray_backend_cuda.dir
+/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles/edit_cache.dir
+/home/hyjing/Code/DeepLearningSystem/HW4/build/CMakeFiles/rebuild_cache.dir

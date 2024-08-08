@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/hyjing/Code/DeepLearningSystem/HW3/python/needle/backend_ndarray/ndarray_backend_cuda.cpython-312-x86_64-linux-gnu.so"
-  "/home/hyjing/Code/DeepLearningSystem/HW3/python/needle/backend_ndarray/ndarray_backend_cuda.pdb"
+  "/home/hyjing/Code/DeepLearningSystem/HW4/python/needle/backend_ndarray/ndarray_backend_cuda.cpython-312-x86_64-linux-gnu.so"
+  "/home/hyjing/Code/DeepLearningSystem/HW4/python/needle/backend_ndarray/ndarray_backend_cuda.pdb"
   "CMakeFiles/ndarray_backend_cuda.dir/src/ndarray_backend_cuda_generated_ndarray_backend_cuda.cu.o"
 )
 
