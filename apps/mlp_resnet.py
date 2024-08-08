@@ -9,7 +9,7 @@ import sys
 sys.path.append("../python")
 
 np.random.seed(0)
-MY_DEVICE = ndl.cuda()
+MY_DEVICE = ndl.cpu_numpy()
 
 
 def ResidualBlock(dim, hidden_dim, norm=nn.BatchNorm1d, drop_prob=0.1):

@@ -1,3 +1,5 @@
 needle.code-workspace
 /.vscode
 /data
+*.pyc
+__pychache__
